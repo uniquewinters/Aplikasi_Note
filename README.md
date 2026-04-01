@@ -42,5 +42,5 @@ lib/
 
 ---
 
-### *Dibuat oleh: arumm (untuk Tugas Membuat Program)*
+### *Dibuat oleh: Naufal Kalam Marudi *
 *Implementasi desain tematik dan manajemen state sederhana di Flutter.*
